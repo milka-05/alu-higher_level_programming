@@ -65,3 +65,6 @@ Use the provided `7-main.py` test file.
 
 ### Task 8: Uppercase
 Created `8-uppercase.py` with a function that prints a string in uppercase using `ord()` without using `str.upper()` or importing modules.
+
+### Task 9: Print Last Digit
+Created `9-print_last_digit.py` to print and return the last digit of a number.
