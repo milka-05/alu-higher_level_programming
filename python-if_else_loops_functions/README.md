@@ -1,15 +1,10 @@
 # Python - If/Else, Loops and Functions
 
-## Task 0: Positive or Negative
+## Task 1: Last Digit
 
-**File:** `0-positive_or_negative.py`
+**File:** `1-last_digit.py`
 
-This program generates a random number and prints whether it is positive, zero, or negative.
-
-### Example
-- `5 is positive`
-- `0 is zero`
-- `-4 is negative`
+This program prints the last digit of a random signed number and describes it.
 
 ### Run
-./0-positive_or_negative.py
+./1-last_digit.py
