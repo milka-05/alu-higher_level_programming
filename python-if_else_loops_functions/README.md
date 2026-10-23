@@ -17,3 +17,12 @@ Prints the lowercase ASCII alphabet, excluding q and e, without a newline.
 
 ### Run
 ./3-print_alphabt.py
+
+## Task 4: Print Integer in Decimal and Hexadecimal
+
+**File:** `4-print_hexa.py`
+
+Prints numbers from 0 to 98 in decimal and hexadecimal.
+
+### Run
+./4-print_hexa.py
