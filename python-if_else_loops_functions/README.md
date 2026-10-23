@@ -53,3 +53,12 @@ Defines `islower(c)`, which returns True for lowercase letters and False otherwi
 
 ### Run
 Use the provided `7-main.py` test file.
+
+## Task 7: Lowercase Checker
+
+**File:** `7-islower.py`
+
+Checks whether a character is lowercase using its ASCII value.
+
+### Run
+Use the provided `7-main.py` test file.
