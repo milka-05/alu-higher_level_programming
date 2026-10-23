@@ -87,3 +87,15 @@ $ ./5-print_string.py
 Holberton SchoolHolberton SchoolHolberton School
 Holberton
 ```
+
+### 6. Concatenate
+**File:** `6-concat.py`
+
+A Python script that prints `Welcome to Holberton School!` using the variables `str1` and `str2`, without loops or conditional statements. The script is exactly 5 lines long.
+
+#### Usage
+
+```bash
+$ ./6-concat.py
+Welcome to Holberton School!
+```
