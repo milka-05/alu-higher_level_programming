@@ -113,3 +113,15 @@ First 3 letters: Hol
 Last 2 letters: on
 Middle word: olberto
 ```
+
+### 8. Concatenate edges
+**File:** `8-concat_edges.py`
+
+A Python script that prints `object-oriented programming with Python` by slicing and concatenating parts of an existing string. No loops, conditional statements, new variables or string literals are used. The script is exactly 5 lines long.
+
+#### Usage
+
+```bash
+$ ./8-concat_edges.py
+object-oriented programming with Python
+```
