@@ -25,3 +25,16 @@ Best School
 - Ubuntu with Python 3 installed
 - Scripts start with a shebang and are executable
 - All files end with a new line
+
+### 1. Run inline
+**File:** `1-run_inline`
+
+A Bash script that runs the Python code stored in the environment variable `$PYCODE`.
+
+#### Usage
+
+```bash
+$ export PYCODE='print(f"Best School: {88+10}")'
+$ ./1-run_inline
+Best School: 98
+```
