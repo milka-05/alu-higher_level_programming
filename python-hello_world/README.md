@@ -168,3 +168,24 @@ export PYFILE=main.py
 ./101-compile
 ```
 
+
+### 102. Magic calculation
+
+**File:** `102-magic_calculation.py`
+
+Implement the `magic_calculation(a, b)` function to reproduce the behavior of the supplied Python bytecode.
+
+The function returns `98 + a ** b`, where `**` is the exponentiation operator.
+
+#### Example
+
+```python
+magic_calculation(2, 3)
+```
+
+Expected result:
+
+```text
+106
+```
+
