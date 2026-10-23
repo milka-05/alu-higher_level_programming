@@ -26,3 +26,12 @@ Prints numbers from 0 to 98 in decimal and hexadecimal.
 
 ### Run
 ./4-print_hexa.py
+
+## Task 5: Print Numbers from 00 to 99
+
+**File:** `5-print_comb2.py`
+
+Prints numbers from 00 to 99 in ascending order, separated by commas.
+
+### Run
+./5-print_comb2.py
