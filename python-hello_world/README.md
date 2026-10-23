@@ -62,3 +62,15 @@ A Python script that prints the integer stored in the variable `number`, followe
 $ ./3-print_number.py
 98 Battery street
 ```
+
+### 4. Print float
+**File:** `4-print_float.py`
+
+A Python script that prints the float stored in the variable `number` with a precision of 2 digits, using an f-string and without casting `number` to a string.
+
+#### Usage
+
+```bash
+$ ./4-print_float.py
+Float: 3.14
+```
