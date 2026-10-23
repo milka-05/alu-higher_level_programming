@@ -38,3 +38,15 @@ $ export PYCODE='print(f"Best School: {88+10}")'
 $ ./1-run_inline
 Best School: 98
 ```
+
+### 2. Print a sentence
+**File:** `2-print.py`
+
+A Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line, using the `print` function.
+
+#### Usage
+
+```bash
+$ ./2-print.py
+"Programming is like building a multilingual puzzle
+```
