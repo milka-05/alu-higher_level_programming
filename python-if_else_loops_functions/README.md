@@ -71,3 +71,6 @@ Created `9-print_last_digit.py` to print and return the last digit of a number.
 
 ### Task 10: Add Integers
 Created `10-add.py` with a function that returns the sum of two integers.
+
+### Task 11: Power
+Created `11-pow.py` with a function that returns `a` raised to the power of `b`.
