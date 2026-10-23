@@ -68,3 +68,6 @@ Created `8-uppercase.py` with a function that prints a string in uppercase using
 
 ### Task 9: Print Last Digit
 Created `9-print_last_digit.py` to print and return the last digit of a number.
+
+### Task 10: Add Integers
+Created `10-add.py` with a function that returns the sum of two integers.
