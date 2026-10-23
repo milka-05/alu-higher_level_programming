@@ -74,3 +74,6 @@ Created `10-add.py` with a function that returns the sum of two integers.
 
 ### Task 11: Power
 Created `11-pow.py` with a function that returns `a` raised to the power of `b`.
+
+### Task 12: FizzBuzz
+Created `12-fizzbuzz.py` to print numbers from 1 to 100, replacing multiples of three with Fizz, multiples of five with Buzz, and multiples of both with FizzBuzz.
