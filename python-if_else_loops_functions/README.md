@@ -44,3 +44,12 @@ Prints all unique combinations of two different digits in ascending order.
 
 ### Run
 ./6-print_comb3.py
+
+## Task 7: Lowercase Checker
+
+**File:** `7-islower.py`
+
+Defines `islower(c)`, which returns True for lowercase letters and False otherwise.
+
+### Run
+Use the provided `7-main.py` test file.
