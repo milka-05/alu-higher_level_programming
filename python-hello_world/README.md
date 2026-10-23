@@ -141,3 +141,30 @@ Beautiful is better than ugly.
 Explicit is better than implicit.
 ...
 ```
+
+### 100. Write to stderr
+
+**File:** `100-write.py`
+
+Write the exact message `and that piece of art is useful - Dora Korpar, 2015-10-19` to standard error using `sys.stderr.write()`, without using `print()`. The script exits with status code `1`.
+
+#### Run
+
+```bash
+./100-write.py
+echo $?
+```
+
+### 101. Compile a Python script
+
+**File:** `101-compile`
+
+Compile the Python file specified by the `PYFILE` environment variable. The compiled output filename must be the original filename followed by `c`. For example, `main.py` produces `main.pyc`.
+
+#### Run
+
+```bash
+export PYFILE=main.py
+./101-compile
+```
+
