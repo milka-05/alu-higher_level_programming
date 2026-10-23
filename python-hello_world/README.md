@@ -50,3 +50,15 @@ A Python script that prints exactly `"Programming is like building a multilingua
 $ ./2-print.py
 "Programming is like building a multilingual puzzle
 ```
+
+### 3. Print number
+**File:** `3-print_number.py`
+
+A Python script that prints the integer stored in the variable `number`, followed by `Battery street` and a new line, using an f-string and without casting `number` to a string.
+
+#### Usage
+
+```bash
+$ ./3-print_number.py
+98 Battery street
+```
