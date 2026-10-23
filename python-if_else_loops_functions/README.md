@@ -62,3 +62,6 @@ Checks whether a character is lowercase using its ASCII value.
 
 ### Run
 Use the provided `7-main.py` test file.
+
+### Task 8: Uppercase
+Created `8-uppercase.py` with a function that prints a string in uppercase using `ord()` without using `str.upper()` or importing modules.
