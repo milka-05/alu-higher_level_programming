@@ -1,10 +1,10 @@
 # Python - If/Else, Loops and Functions
 
-## Task 1: Last Digit
+## Task 2: Print the Alphabet
 
-**File:** `1-last_digit.py`
+**File:** `2-print_alphabet.py`
 
-This program prints the last digit of a random signed number and describes it.
+This program prints the lowercase ASCII alphabet without a new line.
 
 ### Run
-./1-last_digit.py
+./2-print_alphabet.py
