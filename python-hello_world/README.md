@@ -99,3 +99,17 @@ A Python script that prints `Welcome to Holberton School!` using the variables `
 $ ./6-concat.py
 Welcome to Holberton School!
 ```
+
+### 7. Edges
+**File:** `7-edges.py`
+
+A Python script that uses string slicing to extract the first 3 letters, the last 2 letters, and the middle (without the first and last letters) of the variable `word`, then prints them. No loops or conditional statements are used. The script is exactly 8 lines long.
+
+#### Usage
+
+```bash
+$ ./7-edges.py
+First 3 letters: Hol
+Last 2 letters: on
+Middle word: olberto
+```
