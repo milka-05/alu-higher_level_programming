@@ -74,3 +74,16 @@ A Python script that prints the float stored in the variable `number` with a pre
 $ ./4-print_float.py
 Float: 3.14
 ```
+
+### 5. Print string
+**File:** `5-print_string.py`
+
+A Python script that prints a string stored in the variable `str` three times, followed by a new line, then its first 9 characters, followed by a new line. No loops or conditional statements are used.
+
+#### Usage
+
+```bash
+$ ./5-print_string.py
+Holberton SchoolHolberton SchoolHolberton School
+Holberton
+```
