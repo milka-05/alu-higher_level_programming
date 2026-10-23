@@ -35,3 +35,12 @@ Prints numbers from 00 to 99 in ascending order, separated by commas.
 
 ### Run
 ./5-print_comb2.py
+
+## Task 6: Print Combinations of Two Digits
+
+**File:** `6-print_comb3.py`
+
+Prints all unique combinations of two different digits in ascending order.
+
+### Run
+./6-print_comb3.py
