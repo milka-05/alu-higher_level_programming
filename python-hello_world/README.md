@@ -125,3 +125,19 @@ A Python script that prints `object-oriented programming with Python` by slicing
 $ ./8-concat_edges.py
 object-oriented programming with Python
 ```
+
+### 9. Easter egg
+**File:** `9-easter_egg.py`
+
+A Python script that prints "The Zen of Python", by Tim Peters, followed by a new line. The script is at most 98 characters long.
+
+#### Usage
+
+```bash
+$ ./9-easter_egg.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+...
+```
