@@ -59,3 +59,21 @@ element_at(my_list, 3)
 4
 ```
 
+
+### 2. Replace an element in a list
+
+**File:** `2-replace_in_list.py`
+
+Write a function called `replace_in_list(my_list, idx, element)` that replaces an element at a specific position in a list.
+
+- Replace the element if the index is valid.
+- Return the original list without modification if the index is negative.
+- Return the original list without modification if the index is outside the list.
+- Do not import any modules.
+- Do not use try/except.
+
+**Example:**
+
+```python
+my_list = [1, 2, 3, 4, 5]
+replace_in_list(my_list, 3, 9)
