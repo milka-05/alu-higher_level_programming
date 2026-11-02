@@ -208,3 +208,20 @@ Write a function called `max_integer(my_list=[])` that returns the biggest integ
 ```python
 my_list = [1, 90, 2, 13, 34, 5, -13, 3]
 max_integer(my_list)
+
+### 10. Find multiples of 2 in a list
+
+**File:** `10-divisible_by_2.py`
+
+Write a function called `divisible_by_2(my_list=[])` that returns a new list of Boolean values.
+
+- Return True if an integer is divisible by 2.
+- Return False if an integer is not divisible by 2.
+- The new list must have the same size as the original list.
+- Do not import any modules.
+
+**Example:**
+
+```python
+my_list = [0, 1, 2, 3, 4, 5, 6]
+divisible_by_2(my_list)
