@@ -225,3 +225,20 @@ Write a function called `divisible_by_2(my_list=[])` that returns a new list of 
 ```python
 my_list = [0, 1, 2, 3, 4, 5, 6]
 divisible_by_2(my_list)
+
+### 11. Delete an item at a specific position
+
+**File:** `11-delete_at.py`
+
+Write a function called `delete_at(my_list=[], idx=0)` that deletes an item at a specified index.
+
+- If the index is negative or outside the list, leave the list unchanged.
+- Return the modified list.
+- Do not use `pop()`.
+- Do not import any modules.
+
+**Example:**
+
+```python
+my_list = [1, 2, 3, 4, 5]
+delete_at(my_list, 3)
