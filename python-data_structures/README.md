@@ -256,3 +256,18 @@ Write a program that switches the values of variables `a` and `b`.
 
 ```text
 a=89 - b=10
+
+### 12. Switch values
+
+**File:** `12-switch.py`
+
+Write a program that switches the values of variables `a` and `b`.
+
+- Use multiple assignment to swap the values.
+- The program must be exactly 5 lines long.
+
+**Expected output:**
+
+```text
+a = 89
+b = 10
