@@ -95,3 +95,22 @@ Write a function called `print_reversed_list_integer(my_list=[])` that prints al
 ```python
 my_list = [1, 2, 3, 4, 5]
 print_reversed_list_integer(my_list)
+
+### 4. Replace an element without modifying the original list
+
+**File:** `4-new_in_list.py`
+
+Write a function called `new_in_list(my_list, idx, element)` that replaces an element at a specific position without changing the original list.
+
+- Return a copy of the list.
+- Replace the element if the index is valid.
+- Return an unchanged copy if the index is negative.
+- Return an unchanged copy if the index is outside the list.
+- Do not import any modules.
+- Do not use try/except.
+
+**Example:**
+
+```python
+my_list = [1, 2, 3, 4, 5]
+new_in_list(my_list, 3, 9)
