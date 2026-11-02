@@ -132,3 +132,25 @@ Write a function called `no_c(my_string)` that returns a new string without lowe
 no_c("Best School")
 no_c("Chicago")
 no_c("C is fun!")
+
+### 6. Print a matrix of integers
+
+**File:** `6-print_matrix_integer.py`
+
+Write a function called `print_matrix_integer(matrix=[[]])` that prints a matrix of integers.
+
+- Print each row on a separate line.
+- Separate integers in each row with a space.
+- Use `str.format()` to print integers.
+- Do not cast integers into strings.
+- Do not import any modules.
+
+**Example:**
+
+```python
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+print_matrix_integer(matrix)
