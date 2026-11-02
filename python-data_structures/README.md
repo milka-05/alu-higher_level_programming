@@ -174,3 +174,20 @@ Write a function called `add_tuple(tuple_a=(), tuple_b=())` that adds the first 
 tuple_a = (1, 89)
 tuple_b = (88, 11)
 add_tuple(tuple_a, tuple_b)
+
+### 8. Multiple returns
+
+**File:** `8-multiple_returns.py`
+
+Write a function called `multiple_returns(sentence)` that returns a tuple containing the length of a string and its first character.
+
+- Return the length of the string.
+- Return the first character of the string.
+- If the string is empty, return None as the first character.
+- Do not import any modules.
+
+**Example:**
+
+```python
+sentence = "At school, I learnt C!"
+multiple_returns(sentence)
