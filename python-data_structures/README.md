@@ -114,3 +114,21 @@ Write a function called `new_in_list(my_list, idx, element)` that replaces an el
 ```python
 my_list = [1, 2, 3, 4, 5]
 new_in_list(my_list, 3, 9)
+
+### 5. Remove characters c and C from a string
+
+**File:** `5-no_c.py`
+
+Write a function called `no_c(my_string)` that returns a new string without lowercase `c` or uppercase `C`.
+
+- Check each character in the original string.
+- Keep every character except `c` and `C`.
+- Do not import any modules.
+- Do not use `str.replace()`.
+
+**Example:**
+
+```python
+no_c("Best School")
+no_c("Chicago")
+no_c("C is fun!")
