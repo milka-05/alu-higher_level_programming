@@ -191,3 +191,20 @@ Write a function called `multiple_returns(sentence)` that returns a tuple contai
 ```python
 sentence = "At school, I learnt C!"
 multiple_returns(sentence)
+
+### 9. Find the biggest integer in a list
+
+**File:** `9-max_integer.py`
+
+Write a function called `max_integer(my_list=[])` that returns the biggest integer in a list.
+
+- Return None if the list is empty.
+- Use a loop to compare the integers.
+- Do not use the built-in max() function.
+- Do not import any modules.
+
+**Example:**
+
+```python
+my_list = [1, 90, 2, 13, 34, 5, -13, 3]
+max_integer(my_list)
