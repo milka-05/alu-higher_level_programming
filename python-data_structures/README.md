@@ -154,3 +154,23 @@ matrix = [
     [7, 8, 9]
 ]
 print_matrix_integer(matrix)
+
+### 7. Add two tuples
+
+**File:** `7-add_tuple.py`
+
+Write a function called `add_tuple(tuple_a=(), tuple_b=())` that adds the first two elements of two tuples.
+
+- Return a tuple containing exactly two integers.
+- Add the first elements together.
+- Add the second elements together.
+- Use 0 when an element is missing.
+- Ignore elements after the second position.
+- Do not import any modules.
+
+**Example:**
+
+```python
+tuple_a = (1, 89)
+tuple_b = (88, 11)
+add_tuple(tuple_a, tuple_b)
