@@ -242,3 +242,17 @@ Write a function called `delete_at(my_list=[], idx=0)` that deletes an item at a
 ```python
 my_list = [1, 2, 3, 4, 5]
 delete_at(my_list, 3)
+
+### 12. Switch values
+
+**File:** `12-switch.py`
+
+Write a program that switches the values of variables `a` and `b`.
+
+- Use multiple assignment to swap the values.
+- The program must be exactly 5 lines long.
+
+**Expected output:**
+
+```text
+a=89 - b=10
