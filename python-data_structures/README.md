@@ -77,3 +77,21 @@ Write a function called `replace_in_list(my_list, idx, element)` that replaces a
 ```python
 my_list = [1, 2, 3, 4, 5]
 replace_in_list(my_list, 3, 9)
+
+### 3. Print a list in reverse order
+
+**File:** `3-print_reversed_list_integer.py`
+
+Write a function called `print_reversed_list_integer(my_list=[])` that prints all integers in a list in reverse order.
+
+- Print one integer per line.
+- Use `reversed()` to go through the list backwards.
+- Use `str.format()` to print each integer.
+- Do not import any modules.
+- Do not cast integers into strings.
+
+**Example:**
+
+```python
+my_list = [1, 2, 3, 4, 5]
+print_reversed_list_integer(my_list)
