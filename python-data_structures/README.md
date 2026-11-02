@@ -35,3 +35,27 @@ print_list_integer(my_list)
 5
 ```
 
+
+### 1. Retrieve an element
+
+**File:** `1-element_at.py`
+
+Write a function called `element_at(my_list, idx)` that retrieves an element from a list using its index.
+
+- Return the element when the index is valid.
+- Return `None` when the index is negative.
+- Return `None` when the index is outside the list.
+
+**Example:**
+
+```python
+my_list = [1, 2, 3, 4, 5]
+element_at(my_list, 3)
+```
+
+**Expected result:**
+
+```text
+4
+```
+
