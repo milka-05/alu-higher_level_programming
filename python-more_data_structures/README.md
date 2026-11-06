@@ -91,3 +91,18 @@ A function `def number_keys(a_dictionary):` that returns the number of keys in a
 $ ./5-main.py
 Number of keys: 3
 ```
+
+### 6. Print sorted dictionary
+**File:** `6-print_sorted_dictionary.py`
+
+A function `def print_sorted_dictionary(a_dictionary):` that prints a dictionary by ordered keys. Only first-level keys are sorted, and no module is imported.
+
+#### Usage
+
+```bash
+$ ./6-main.py
+Number: 89
+ids: [1, 2, 3]
+language: C
+track: Low level
+```
