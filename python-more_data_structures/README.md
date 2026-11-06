@@ -184,3 +184,16 @@ John: 24
 Mike: 28
 Molly: 32
 ```
+
+### 10. Best score
+**File:** `10-best_score.py`
+
+A function `def best_score(a_dictionary):` that returns a key with the biggest integer value. If no score is found, it returns `None`. No module is imported.
+
+#### Usage
+
+```bash
+$ ./10-main.py
+Best score: Molly
+Best score: None
+```
