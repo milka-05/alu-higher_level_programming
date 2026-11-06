@@ -55,3 +55,18 @@ nb_print: 5
     print("{:d}".format(my_list[i]), end="")
 IndexError: list index out of range
 ```
+
+### 3. Safe integer division
+**File:** `3-safe_print_division.py`
+
+A function `def safe_print_division(a, b):` that divides 2 integers and prints the result in the `finally:` section, preceded by `Inside result:`. It returns the value of the division, otherwise `None`. It uses `try`/`except`/`finally` and `"{}".format()`, and no module is imported.
+
+#### Usage
+
+```bash
+$ ./3-main.py
+Inside result: 6.0
+12 / 2 = 6.0
+Inside result: None
+12 / 0 = None
+```
