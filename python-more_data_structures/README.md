@@ -106,3 +106,32 @@ ids: [1, 2, 3]
 language: C
 track: Low level
 ```
+
+### 7. Update dictionary
+**File:** `7-update_dictionary.py`
+
+A function `def update_dictionary(a_dictionary, key, value):` that replaces or adds a key/value in a dictionary. If the key exists the value is replaced, otherwise the key is created. No module is imported.
+
+#### Usage
+
+```bash
+$ ./7-main.py
+language: Python
+number: 89
+track: Low level
+--
+language: Python
+number: 89
+track: Low level
+--
+--
+city: San Francisco
+language: Python
+number: 89
+track: Low level
+--
+city: San Francisco
+language: Python
+number: 89
+track: Low level
+```
