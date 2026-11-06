@@ -135,3 +135,30 @@ language: Python
 number: 89
 track: Low level
 ```
+
+### 8. Delete by key
+**File:** `8-simple_delete.py`
+
+A function `def simple_delete(a_dictionary, key=""):` that deletes a key in a dictionary. If the key doesn't exist, the dictionary won't change. No module is imported.
+
+#### Usage
+
+```bash
+$ ./8-main.py
+Number: 89
+ids: [1, 2, 3]
+language: C
+--
+Number: 89
+ids: [1, 2, 3]
+language: C
+--
+--
+Number: 89
+ids: [1, 2, 3]
+language: C
+--
+Number: 89
+ids: [1, 2, 3]
+language: C
+```
