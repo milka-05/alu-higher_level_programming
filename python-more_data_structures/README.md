@@ -197,3 +197,16 @@ $ ./10-main.py
 Best score: Molly
 Best score: None
 ```
+
+### 11. Multiply list map
+**File:** `11-multiply_list_map.py`
+
+A function `def multiply_list_map(my_list=[], number=0):` that returns a new list with all values multiplied by a number, using `map` and no loops. The initial list is not modified, no module is imported, and the file is at most 3 lines long.
+
+#### Usage
+
+```bash
+$ ./11-main.py
+[4, 8, 12, 16, 24]
+[1, 2, 3, 4, 6]
+```
