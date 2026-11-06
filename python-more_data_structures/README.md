@@ -30,3 +30,16 @@ $ ./0-main.py
 [[1, 4, 9], [16, 25, 36], [49, 64, 81]]
 [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ```
+
+### 1. Search and replace
+**File:** `1-search_replace.py`
+
+A function `def search_replace(my_list, search, replace):` that replaces all occurrences of an element by another in a new list. The initial list is not modified, and no module is imported.
+
+#### Usage
+
+```bash
+$ ./1-main.py
+[1, 89, 3, 4, 5, 4, 89, 1, 1, 4, 89]
+[1, 2, 3, 4, 5, 4, 2, 1, 1, 4, 89]
+```
