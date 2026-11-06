@@ -34,3 +34,24 @@ $ ./1-main.py
 -89
 School is not an integer
 ```
+
+### 2. Print a list of integers
+**File:** `2-safe_print_list_integers.py`
+
+A function `def safe_print_list_integers(my_list=[], x=0):` that prints the first `x` elements of a list, only integers, on the same line followed by a new line. Other types are silently skipped. It returns the real number of integers printed. If `x` is bigger than the length of the list, an `IndexError` is expected to occur. It uses `try`/`except` and `"{:d}".format()`, no module is imported, and `len()` is not used.
+
+#### Usage
+
+```bash
+$ ./2-main.py
+12
+nb_print: 2
+12345
+nb_print: 5
+12345Traceback (most recent call last):
+  File "./2-main.py", line 14, in <module>
+    nb_print = safe_print_list_integers(my_list, len(my_list) + 2)
+  File "//2-safe_print_list_integers.py", line 7, in safe_print_list_integers
+    print("{:d}".format(my_list[i]), end="")
+IndexError: list index out of range
+```
