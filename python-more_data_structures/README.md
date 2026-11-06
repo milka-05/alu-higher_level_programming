@@ -67,3 +67,15 @@ A function `def common_elements(set_1, set_2):` that returns a set of common ele
 $ ./3-main.py
 ['C']
 ```
+
+### 4. Only differents
+**File:** `4-only_diff_elements.py`
+
+A function `def only_diff_elements(set_1, set_2):` that returns a set of all elements present in only one set. No module is imported.
+
+#### Usage
+
+```bash
+$ ./4-main.py
+['Bash', 'Javascript', 'Perl', 'Python', 'Ruby']
+```
