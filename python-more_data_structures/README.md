@@ -79,3 +79,15 @@ A function `def only_diff_elements(set_1, set_2):` that returns a set of all ele
 $ ./4-main.py
 ['Bash', 'Javascript', 'Perl', 'Python', 'Ruby']
 ```
+
+### 5. Number of keys
+**File:** `5-number_keys.py`
+
+A function `def number_keys(a_dictionary):` that returns the number of keys in a dictionary. No module is imported.
+
+#### Usage
+
+```bash
+$ ./5-main.py
+Number of keys: 3
+```
