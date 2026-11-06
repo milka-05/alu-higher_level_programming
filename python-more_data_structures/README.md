@@ -55,3 +55,15 @@ A function `def uniq_add(my_list=[]):` that adds all unique integers in a list (
 $ ./2-main.py
 Result: 15
 ```
+
+### 3. Common elements
+**File:** `3-common_elements.py`
+
+A function `def common_elements(set_1, set_2):` that returns a set of common elements in two sets. No module is imported.
+
+#### Usage
+
+```bash
+$ ./3-main.py
+['C']
+```
