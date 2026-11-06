@@ -97,3 +97,14 @@ A function `def raise_exception():` that deliberately raises a TypeError excepti
 ```bash
 $ ./5-main.py
 Exception raised
+
+### 6. Raise a name exception with a message
+**File:** `6-raise_exception_msg.py`
+
+A function `def raise_exception_msg(message=""):` that raises a NameError exception with the supplied message. It uses the raise keyword and does not import any module.
+
+#### Usage
+
+```bash
+$ ./6-main.py
+C is fun
