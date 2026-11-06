@@ -86,3 +86,14 @@ division by 0
 wrong type
 out of range
 [5.0, 0, 0, 2.0, 0]
+
+### 5. Raise a type exception
+**File:** `5-raise_exception.py`
+
+A function `def raise_exception():` that deliberately raises a TypeError exception using the raise keyword. No module is imported.
+
+#### Usage
+
+```bash
+$ ./5-main.py
+Exception raised
