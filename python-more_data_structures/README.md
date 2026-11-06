@@ -210,3 +210,19 @@ $ ./11-main.py
 [4, 8, 12, 16, 24]
 [1, 2, 3, 4, 6]
 ```
+
+### 12. Roman to Integer
+**File:** `12-roman_to_int.py`
+
+A function `def roman_to_int(roman_string):` that converts a Roman numeral to an integer. The number is assumed to be between 1 and 3999. If `roman_string` is not a string or is `None`, the function returns 0.
+
+#### Usage
+
+```bash
+$ ./12-main.py
+X = 10
+VII = 7
+IX = 9
+LXXXVII = 87
+DCCVII = 707
+```
