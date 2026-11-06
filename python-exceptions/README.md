@@ -20,3 +20,17 @@ nb_print: 5
 12345
 nb_print: 5
 ```
+
+### 1. Integer printing
+**File:** `1-safe_print_integer.py`
+
+A function `def safe_print_integer(value):` that prints an integer with `"{:d}".format()`, followed by a new line. It returns `True` if `value` was correctly printed (it is an integer), otherwise `False`. It uses `try`/`except`, no module is imported, and `type()` is not used.
+
+#### Usage
+
+```bash
+$ ./1-main.py
+89
+-89
+School is not an integer
+```
