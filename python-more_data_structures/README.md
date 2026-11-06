@@ -43,3 +43,15 @@ $ ./1-main.py
 [1, 89, 3, 4, 5, 4, 89, 1, 1, 4, 89]
 [1, 2, 3, 4, 5, 4, 2, 1, 1, 4, 89]
 ```
+
+### 2. Uniq addition
+**File:** `2-uniq_add.py`
+
+A function `def uniq_add(my_list=[]):` that adds all unique integers in a list (only once for each integer). No module is imported.
+
+#### Usage
+
+```bash
+$ ./2-main.py
+Result: 15
+```
