@@ -70,3 +70,19 @@ Inside result: 6.0
 Inside result: None
 12 / 0 = None
 ```
+
+### 4. Divide lists element by element
+**File:** `4-list_division.py`
+
+A function `def list_division(my_list_1, my_list_2, list_length):` that divides elements from two lists element by element and returns a new list containing the results. If division is unsuccessful, it stores 0. It handles ZeroDivisionError, TypeError, and IndexError using try/except/finally. It prints the appropriate error message for each exception and does not import any module.
+
+#### Usage
+
+```bash
+$ ./4-main.py
+[5.0, 2.0, 1.0]
+--
+division by 0
+wrong type
+out of range
+[5.0, 0, 0, 2.0, 0]
