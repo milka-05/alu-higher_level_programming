@@ -9,3 +9,4 @@ Exploring how everything in Python is an object.
 | `2-answer.txt` | Whether `a = 89` and `b = 100` point to the same object (Yes or No) |
 | `3-answer.txt` | Whether `a = 89` and `b = 89` point to the same object (Yes or No) |
 | `4-answer.txt` | Whether `a = 89` and `b = a` point to the same object (Yes or No) |
+| `5-answer.txt` | Whether `a = 89` and `b = a + 1` point to the same object (Yes or No) |
