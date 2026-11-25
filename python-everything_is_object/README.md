@@ -11,3 +11,4 @@ Exploring how everything in Python is an object.
 | `4-answer.txt` | Whether `a = 89` and `b = a` point to the same object (Yes or No) |
 | `5-answer.txt` | Whether `a = 89` and `b = a + 1` point to the same object (Yes or No) |
 | `6-answer.txt` | Output of comparing `s1 == s2` after `s2 = s1` |
+| `7-answer.txt` | Output of `s1 is s2` after `s2 = s1` |
