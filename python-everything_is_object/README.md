@@ -15,3 +15,4 @@ Exploring how everything in Python is an object.
 | `8-answer.txt` | Output of `s1 == s2` for two separately created equal strings |
 | `9-answer.txt` | Output of `s1 is s2` for two separately created equal strings |
 | `10-answer.txt` | Output of `l1 == l2` for two separately created equal lists |
+| `11-answer.txt` | Output of `l1 is l2` for two separately created equal lists |
