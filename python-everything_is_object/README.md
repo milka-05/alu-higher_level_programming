@@ -13,3 +13,4 @@ Exploring how everything in Python is an object.
 | `6-answer.txt` | Output of comparing `s1 == s2` after `s2 = s1` |
 | `7-answer.txt` | Output of `s1 is s2` after `s2 = s1` |
 | `8-answer.txt` | Output of `s1 == s2` for two separately created equal strings |
+| `9-answer.txt` | Output of `s1 is s2` for two separately created equal strings |
