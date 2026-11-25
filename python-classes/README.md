@@ -10,3 +10,4 @@ Introduction to classes and objects in Python.
 | `3-square.py` | Class `Square` with a validated private `size` and a public `area()` method |
 | `4-square.py` | Class `Square` with a private `size` exposed through a validated getter and setter (property), plus `area()` |
 | `5-square.py` | Class `Square` with a validated `size` property, `area()`, and `my_print()` that prints the square with `#` |
+| `6-square.py` | Class `Square` with validated `size` and `position` properties, `area()`, and `my_print()` that honors the position |
