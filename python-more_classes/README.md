@@ -13,3 +13,4 @@ More on classes and objects in Python.
 | `6-rectangle.py` | Class `Rectangle` with a public class attribute `number_of_instances` that tracks live instances |
 | `7-rectangle.py` | Class `Rectangle` with a public class attribute `print_symbol` used to draw the rectangle |
 | `8-rectangle.py` | Class `Rectangle` with a static method `bigger_or_equal` that returns the rectangle with the bigger area |
+| `9-rectangle.py` | Class `Rectangle` with a class method `square` that returns a new square Rectangle |
