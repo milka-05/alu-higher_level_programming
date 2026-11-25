@@ -12,3 +12,4 @@ More on classes and objects in Python.
 | `5-rectangle.py` | Class `Rectangle` that prints `Bye rectangle...` when an instance is deleted |
 | `6-rectangle.py` | Class `Rectangle` with a public class attribute `number_of_instances` that tracks live instances |
 | `7-rectangle.py` | Class `Rectangle` with a public class attribute `print_symbol` used to draw the rectangle |
+| `8-rectangle.py` | Class `Rectangle` with a static method `bigger_or_equal` that returns the rectangle with the bigger area |
