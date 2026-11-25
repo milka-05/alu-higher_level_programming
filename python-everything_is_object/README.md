@@ -18,3 +18,5 @@ Exploring how everything in Python is an object.
 | `11-answer.txt` | Output of `l1 is l2` for two separately created equal lists |
 | `12-answer.txt` | Output of `l1 == l2` after `l2 = l1` |
 | `13-answer.txt` | Output of `l1 is l2` after `l2 = l1` |
+| `14-answer.txt` | Output of printing `l2` after `l1.append(4)` when `l2 = l1` |
+| `14-answer.txt` | Output of printing `l2` after `l1.append(4)` when `l2 = l1` |
