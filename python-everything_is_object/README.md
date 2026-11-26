@@ -29,3 +29,4 @@ Exploring how everything in Python is an object.
 | `20-answer.txt` | Whether `a = ()` is a tuple (Yes or No) |
 | `21-answer.txt` | Whether `a = (1, 2)` is a tuple (Yes or No) |
 | `22-answer.txt` | Whether `a = (1)` is a tuple (Yes or No) |
+| `23-answer.txt` | Whether `a = (1, )` is a tuple (Yes or No) |
