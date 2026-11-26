@@ -33,3 +33,4 @@ Exploring how everything in Python is an object.
 | `24-answer.txt` | Output of `a is b` for `a = (1)` and `b = (1)` |
 | `25-answer.txt` | Output of `a is b` for two separately written equal tuples |
 | `26-answer.txt` | Output of `a is b` for `a = ()` and `b = ()` |
+| `27-answer.txt` | Whether `id(a)` stays the same after `a = a + [5]` (Yes or No) |
