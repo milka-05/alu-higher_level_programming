@@ -21,3 +21,5 @@ Exploring how everything in Python is an object.
 | `14-answer.txt` | Output of printing `l2` after `l1.append(4)` when `l2 = l1` |
 | `14-answer.txt` | Output of printing `l2` after `l1.append(4)` when `l2 = l1` |
 | `15-answer.txt` | Output of printing `l2` after `l1 = l1 + [4]` when `l2 = l1` |
+| `16-answer.txt` | Output of printing `a` after calling `increment(a)` on an integer |
+| `16-answer.txt` | Output of printing `a` after calling `increment(a)` on an integer |
