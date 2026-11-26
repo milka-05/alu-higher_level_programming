@@ -28,3 +28,4 @@ Exploring how everything in Python is an object.
 | `19-copy_list.py` | Function `copy_list(l)` that returns a copy of a list |
 | `20-answer.txt` | Whether `a = ()` is a tuple (Yes or No) |
 | `21-answer.txt` | Whether `a = (1, 2)` is a tuple (Yes or No) |
+| `22-answer.txt` | Whether `a = (1)` is a tuple (Yes or No) |
