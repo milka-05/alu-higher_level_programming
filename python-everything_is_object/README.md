@@ -32,3 +32,4 @@ Exploring how everything in Python is an object.
 | `23-answer.txt` | Whether `a = (1, )` is a tuple (Yes or No) |
 | `24-answer.txt` | Output of `a is b` for `a = (1)` and `b = (1)` |
 | `25-answer.txt` | Output of `a is b` for two separately written equal tuples |
+| `26-answer.txt` | Output of `a is b` for `a = ()` and `b = ()` |
