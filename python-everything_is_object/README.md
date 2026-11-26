@@ -24,3 +24,4 @@ Exploring how everything in Python is an object.
 | `16-answer.txt` | Output of printing `a` after calling `increment(a)` on an integer |
 | `16-answer.txt` | Output of printing `a` after calling `increment(a)` on an integer |
 | `17-answer.txt` | Output of printing `l` after calling `increment(l)` that appends to a list |
+| `18-answer.txt` | Output of printing `l1` after `assign_value(l1, l2)` rebinds the local name |
