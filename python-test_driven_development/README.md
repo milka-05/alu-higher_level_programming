@@ -94,3 +94,16 @@ python3 -m doctest -v ./tests/5-text_indentation.txt
 
 **Expected output:**
 Every test passes, with 0 failed.
+
+## Task 6: Max integer - unittest
+
+**Files:** `tests/6-max_integer_test.py`
+
+**Description:**
+Unit tests for `max_integer(list=[])` covering ordered/unordered lists, negative numbers, single/empty lists, duplicates, strings, floats, and invalid inputs.
+
+**Usage:**
+`python3 -m unittest tests.6-max_integer_test`
+
+**Expected output:**
+`OK`
