@@ -16,3 +16,4 @@ Inheritance and introspection in Python.
 | `tests/7-base_geometry.txt` | Doctest file for `7-base_geometry.py` |
 | `8-rectangle.py` | Class `Rectangle` that inherits from `BaseGeometry` with private, validated `width` and `height` |
 | `9-rectangle.py` | Class `Rectangle` that inherits from `BaseGeometry`, implements `area()` and prints as `[Rectangle] <width>/<height>` |
+| `10-square.py` | Class `Square` that inherits from `Rectangle` with a private, validated `size` and its own `area()` |
