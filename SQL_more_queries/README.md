@@ -13,3 +13,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `6-states.sql` | Creates database `hbtn_0d_usa` and table `states` with auto-increment primary key `id` |
 | `7-cities.sql` | Creates database `hbtn_0d_usa` and table `cities` with a foreign key referencing `states(id)` |
 | `8-cities_of_california_subquery.sql` | Lists all cities of California from `hbtn_0d_usa` sorted by `cities.id` ascending using a subquery |
+| `9-cities_by_state_join.sql` | Lists all cities with their state names from `hbtn_0d_usa` sorted by `cities.id` ascending |
