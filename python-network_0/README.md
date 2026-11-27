@@ -58,3 +58,16 @@ A Bash script that sends an OPTIONS request using curl and displays all HTTP met
 
 **Expected output:**
 OPTIONS, HEAD, PUT
+
+## Task 4: Header
+
+**File:** `4-header.sh`
+
+**Description:**
+A Bash script that sends a GET request using curl with a custom X-HolbertonSchool-User-Id header set to 98 and displays the response body.
+
+**Usage:**
+./4-header.sh 0.0.0.0:5000/route_5
+
+**Expected output:**
+Hello Holberton School!
