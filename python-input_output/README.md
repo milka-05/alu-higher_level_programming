@@ -15,3 +15,4 @@ Reading and writing files in Python.
 | `9-student.py` | Defines a Student class with public attributes and a method that returns its dictionary representation |
 | `10-student.py` | Defines a Student class with a to_json method that returns all attributes or filters them using a list of strings |
 | `11-student.py` | Defines a Student class with JSON serialization and deserialization methods |
+| `12-pascal_triangle.py` | Function that generates Pascal's Triangle as a list of lists of integers |
