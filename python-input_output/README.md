@@ -11,3 +11,4 @@ Reading and writing files in Python.
 | `4-from_json_string.py` | Function `from_json_string(my_str)` that converts a JSON string into a Python object |
 | `5-save_to_json_file.py` | Function `save_to_json_file(my_obj, filename)` that writes an object to a text file using JSON representation |
 | `6-load_from_json_file.py` | Function `load_from_json_file(filename)` that reads a JSON file and returns the corresponding Python object |
+| `7-add_item.py` | Script that adds command-line arguments to a list and saves the list in `add_item.json` using JSON functions |
