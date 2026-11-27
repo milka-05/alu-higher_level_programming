@@ -13,3 +13,4 @@ Introduction to MySQL queries and scripts.
 | `6-list_values.sql` | Lists all rows and fields of `first_table` from the database passed as an argument |
 | `7-insert_value.sql` | Inserts a new row (`id = 89`, `name = Best School`) into `first_table` |
 | `8-count_89.sql` | Displays the number of records with `id = 89` in `first_table` |
+| `9-full_creation.sql` | Creates `second_table` and inserts four initial rows |
