@@ -16,3 +16,4 @@ Introduction to MySQL queries and scripts.
 | `9-full_creation.sql` | Creates `second_table` and inserts four initial rows |
 | `10-top_score.sql` | Lists `score` and `name` from `second_table` ordered by highest score first |
 | `11-best_score.sql` | Lists `score` and `name` from `second_table` with `score >= 10` ordered by highest score first |
+| `12-no_cheating.sql` | Updates `Bob` score to `10` in `second_table` using the `name` field |
