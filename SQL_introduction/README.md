@@ -19,3 +19,4 @@ Introduction to MySQL queries and scripts.
 | `12-no_cheating.sql` | Updates `Bob` score to `10` in `second_table` using the `name` field |
 | `13-change_class.sql` | Removes all records with `score <= 5` from `second_table` |
 | `14-average.sql` | Computes the score average of all records in `second_table` |
+| `15-groups.sql` | Lists the number of records with the same `score` in `second_table` sorted by count descending |
