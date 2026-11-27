@@ -39,3 +39,21 @@ python3 -m doctest -v ./tests/2-matrix_divided.txt
 
 **Expected output:**
 Every test passes, with 0 failed.
+
+## Task 3: Say my name
+
+**Files:** `3-say_my_name.py`, `tests/3-say_my_name.txt`
+
+**Description:**
+A function `say_my_name(first_name, last_name="")` that prints `My name is <first name> <last name>`.
+
+**Requirements:**
+- `first_name` and `last_name` must be strings, otherwise raise `TypeError`.
+- Do not import any module.
+- Tests are written as a doctest file in `tests/`.
+
+**Usage:**
+python3 -m doctest -v ./tests/3-say_my_name.txt
+
+**Expected output:**
+Every test passes, with 0 failed.
