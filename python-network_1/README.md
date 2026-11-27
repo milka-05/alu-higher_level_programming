@@ -141,3 +141,24 @@ A Python script that sends a POST request to a URL with an email address in the 
 
 **Expected output:**
 Your email is: hr@holbertonschool.com
+
+## Task 7: Error code with requests
+
+**File:** `7-error_code.py`
+
+**Description:**
+A Python script that sends a request to a URL using the `requests` package and displays the response body. If the HTTP status code is greater than or equal to 400, it displays the error code instead.
+
+**Requirements:**
+- Use `requests` and `sys`.
+- Do not import other packages.
+- Display `Error code: ` followed by the status code when it is 400 or more.
+
+**Usage:**
+./7-error_code.py http://0.0.0.0:5000
+
+**Expected output for a successful request:**
+Index
+
+**Expected output for an HTTP error:**
+Error code: 401
