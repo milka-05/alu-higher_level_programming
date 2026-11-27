@@ -12,3 +12,5 @@ Inheritance and introspection in Python.
 | `4-inherits_from.py` | Function `inherits_from(obj, a_class)` that returns True if the object is an instance of a class that inherited (directly or indirectly) from the class |
 | `5-base_geometry.py` | Empty class `BaseGeometry` |
 | `6-base_geometry.py` | Class `BaseGeometry` with an `area()` method that raises an Exception |
+| `7-base_geometry.py` | Class `BaseGeometry` with `area()` and `integer_validator(name, value)` |
+| `tests/7-base_geometry.txt` | Doctest file for `7-base_geometry.py` |
