@@ -103,3 +103,23 @@ A Python script that fetches `https://intranet.hbtn.io/status` using the `reques
 Body response:
     - type: <class 'str'>
     - content: OK
+
+## Task 5: Response header value with requests
+
+**File:** `5-hbtn_header.py`
+
+**Description:**
+A Python script that sends a request to a URL using the `requests` package and displays the value of the `X-Request-Id` response header.
+
+**Requirements:**
+- Use `requests` and `sys`.
+- Do not import other packages.
+- Get the URL from the command-line arguments.
+- Display the `X-Request-Id` header value, which is different for each request.
+
+**Usage:**
+./5-hbtn_header.py https://intranet.hbtn.io
+
+**Expected output:**
+A unique request ID, for example:
+5e52e160-c822-4669-8b3a-8b3bbca7b090
