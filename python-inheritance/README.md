@@ -10,3 +10,4 @@ Inheritance and introspection in Python.
 | `2-is_same_class.py` | Function `is_same_class(obj, a_class)` that returns True if the object is exactly an instance of the class |
 | `3-is_kind_of_class.py` | Function `is_kind_of_class(obj, a_class)` that returns True if the object is an instance of the class or of a class that inherited from it |
 | `4-inherits_from.py` | Function `inherits_from(obj, a_class)` that returns True if the object is an instance of a class that inherited (directly or indirectly) from the class |
+| `5-base_geometry.py` | Empty class `BaseGeometry` |
