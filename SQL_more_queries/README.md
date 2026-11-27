@@ -17,3 +17,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `10-genre_id_by_show.sql` | Lists TV shows with their linked genre IDs, sorted by show title and genre ID |
 | `11-genre_id_all_shows.sql` | Lists all TV shows and their genre IDs, including shows without genres using a LEFT JOIN |
 | `12-no_genre.sql` | Lists all TV shows without a linked genre, sorted by title and genre ID |
+| `13-count_shows_by_genre.sql` | Counts the number of TV shows linked to each genre, sorted by descending count |
