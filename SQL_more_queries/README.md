@@ -8,3 +8,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `1-create_user.sql` | Creates `user_0d_1` on `localhost` with password `user_0d_1_pwd` and all server privileges |
 | `2-create_read_user.sql` | Creates database `hbtn_0d_2` and `user_0d_2` with `SELECT` privilege on `hbtn_0d_2` |
 | `3-force_name.sql` | Creates the table `force_name` with a non-null `name` column |
+| `4-never_empty.sql` | Creates the table `id_not_null` with `id` defaulting to `1` |
