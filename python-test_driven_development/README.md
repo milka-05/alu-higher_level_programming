@@ -76,3 +76,21 @@ python3 -m doctest -v ./tests/4-print_square.txt
 
 **Expected output:**
 Every test passes, with 0 failed.
+
+## Task 5: Text indentation
+
+**Files:** `5-text_indentation.py`, `tests/5-text_indentation.txt`
+
+**Description:**
+A function `text_indentation(text)` that prints a text with 2 new lines after each of these characters: `.`, `?` and `:`.
+
+**Requirements:**
+- `text` must be a string, otherwise raise `TypeError`.
+- There should be no space at the beginning or at the end of each printed line.
+- Do not import any module.
+
+**Usage:**
+python3 -m doctest -v ./tests/5-text_indentation.txt
+
+**Expected output:**
+Every test passes, with 0 failed.
