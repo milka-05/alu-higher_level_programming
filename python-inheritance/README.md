@@ -15,3 +15,4 @@ Inheritance and introspection in Python.
 | `7-base_geometry.py` | Class `BaseGeometry` with `area()` and `integer_validator(name, value)` |
 | `tests/7-base_geometry.txt` | Doctest file for `7-base_geometry.py` |
 | `8-rectangle.py` | Class `Rectangle` that inherits from `BaseGeometry` with private, validated `width` and `height` |
+| `9-rectangle.py` | Class `Rectangle` that inherits from `BaseGeometry`, implements `area()` and prints as `[Rectangle] <width>/<height>` |
