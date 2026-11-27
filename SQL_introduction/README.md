@@ -17,3 +17,4 @@ Introduction to MySQL queries and scripts.
 | `10-top_score.sql` | Lists `score` and `name` from `second_table` ordered by highest score first |
 | `11-best_score.sql` | Lists `score` and `name` from `second_table` with `score >= 10` ordered by highest score first |
 | `12-no_cheating.sql` | Updates `Bob` score to `10` in `second_table` using the `name` field |
+| `13-change_class.sql` | Removes all records with `score <= 5` from `second_table` |
