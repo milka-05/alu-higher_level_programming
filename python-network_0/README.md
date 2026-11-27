@@ -45,3 +45,16 @@ A Bash script that sends a DELETE request to a URL using curl and displays the r
 
 **Expected output:**
 I'm a DELETE request
+
+## Task 3: HTTP methods
+
+**File:** `3-methods.sh`
+
+**Description:**
+A Bash script that sends an OPTIONS request using curl and displays all HTTP methods accepted by the server.
+
+**Usage:**
+./3-methods.sh 0.0.0.0:5000/route_4
+
+**Expected output:**
+OPTIONS, HEAD, PUT
