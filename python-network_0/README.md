@@ -32,3 +32,16 @@ A Bash script that sends a GET request using curl and displays the response body
 
 **Expected output:**
 Route 2
+
+## Task 2: DELETE request
+
+**File:** `2-delete.sh`
+
+**Description:**
+A Bash script that sends a DELETE request to a URL using curl and displays the response body.
+
+**Usage:**
+./2-delete.sh 0.0.0.0:5000/route_3
+
+**Expected output:**
+I'm a DELETE request
