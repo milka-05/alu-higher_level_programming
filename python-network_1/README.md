@@ -83,4 +83,23 @@ Index
 
 **Expected output for an HTTP error:**
 Error code: 401
-| `3-error_code.py` | Script that sends a request to a URL and displays the response body, or `Error code: <status>` on an HTTP error |
+
+## Task 4: Status with requests
+
+**File:** `4-hbtn_status.py`
+
+**Description:**
+A Python script that fetches `https://alu-intranet.hbtn.io/status` using the `requests` package and displays the response body.
+
+**Requirements:**
+- Use the `requests` package.
+- Do not import packages other than `requests`.
+- Display the body with a tabulation before `- `.
+
+**Usage:**
+./4-hbtn_status.py
+
+**Expected output:**
+Body response:
+    - type: <class 'str'>
+    - content: OK
