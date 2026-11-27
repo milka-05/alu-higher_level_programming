@@ -60,3 +60,26 @@ A Python script that sends an email address to a URL using a POST request and di
 
 **Expected output:**
 Your email is: hr@holbertonschool.com
+
+## Task 3: Error code
+
+**File:** `3-error_code.py`
+
+**Description:**
+A Python script that sends a request to a URL, displays the response body decoded in UTF-8, and handles HTTP errors by displaying their status codes.
+
+**Requirements:**
+- Use `urllib` and `sys`.
+- Do not import packages other than `urllib` and `sys`.
+- Use a `with` statement.
+- Catch `urllib.error.HTTPError`.
+- Display `Error code: ` followed by the HTTP status code when an HTTP error occurs.
+
+**Usage:**
+./3-error_code.py http://0.0.0.0:5000
+
+**Expected output for a successful request:**
+Index
+
+**Expected output for an HTTP error:**
+Error code: 401
