@@ -71,3 +71,22 @@ A Bash script that sends a GET request using curl with a custom X-HolbertonSchoo
 
 **Expected output:**
 Hello Holberton School!
+
+## Task 5: POST parameters
+
+**File:** `5-post_params.sh`
+
+**Description:**
+A Bash script that sends a POST request using curl with two parameters: email and subject. It displays the response body.
+
+**Parameters:**
+- email: test@gmail.com
+- subject: I will always be here for PLD
+
+**Usage:**
+./5-post_params.sh 0.0.0.0:5000/route_6
+
+**Expected output:**
+POST params:
+    email: test@gmail.com
+    subject: I will always be here for PLD
