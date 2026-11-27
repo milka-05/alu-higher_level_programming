@@ -182,3 +182,23 @@ A Python script that takes in a letter and sends a POST request to `http://0.0.0
 
 **Expected output:**
 [8446] amnirqhtfjq
+
+## Task 10: My GitHub id
+
+**File:** `10-my_github.py`
+
+**Description:**
+A Python script that takes a GitHub username and a personal access token as arguments and uses the GitHub API with Basic Authentication to display the user's `id`.
+
+**Requirements:**
+- Use `requests` and `sys`.
+- Do not import other packages.
+- Use Basic Authentication with a personal access token as the password.
+- The first argument is the username and the second is the token.
+
+**Usage:**
+./10-my_github.py <username> <personal access token>
+
+**Expected output:**
+The account id, for example:
+2531536
