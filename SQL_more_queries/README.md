@@ -14,3 +14,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `7-cities.sql` | Creates database `hbtn_0d_usa` and table `cities` with a foreign key referencing `states(id)` |
 | `8-cities_of_california_subquery.sql` | Lists all cities of California from `hbtn_0d_usa` sorted by `cities.id` ascending using a subquery |
 | `9-cities_by_state_join.sql` | Lists all cities with their state names from `hbtn_0d_usa` sorted by `cities.id` ascending |
+| `10-genre_id_by_show.sql` | Lists TV shows with their linked genre IDs, sorted by show title and genre ID |
