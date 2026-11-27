@@ -15,3 +15,4 @@ Introduction to MySQL queries and scripts.
 | `8-count_89.sql` | Displays the number of records with `id = 89` in `first_table` |
 | `9-full_creation.sql` | Creates `second_table` and inserts four initial rows |
 | `10-top_score.sql` | Lists `score` and `name` from `second_table` ordered by highest score first |
+| `11-best_score.sql` | Lists `score` and `name` from `second_table` with `score >= 10` ordered by highest score first |
