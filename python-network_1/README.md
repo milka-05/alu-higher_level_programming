@@ -40,3 +40,23 @@ A Python script that sends a request to a URL and displays the value of the `X-R
 **Expected output:**
 A unique request ID, for example:
 6593e1f5-1b4b-4c9f-9c0e-72ab525b850f
+
+## Task 2: POST an email
+
+**File:** `2-post_email.py`
+
+**Description:**
+A Python script that sends an email address to a URL using a POST request and displays the response body decoded in UTF-8.
+
+**Requirements:**
+- Use `urllib` and `sys`.
+- Do not import packages other than `urllib` and `sys`.
+- Send the email using the `email` parameter.
+- Use a `with` statement.
+- Decode the response body using UTF-8.
+
+**Usage:**
+./2-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
+
+**Expected output:**
+Your email is: hr@holbertonschool.com
