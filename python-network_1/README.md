@@ -83,3 +83,4 @@ Index
 
 **Expected output for an HTTP error:**
 Error code: 401
+| `3-error_code.py` | Script that sends a request to a URL and displays the response body, or `Error code: <status>` on an HTTP error |
