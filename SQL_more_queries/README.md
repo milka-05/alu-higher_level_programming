@@ -19,3 +19,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `12-no_genre.sql` | Lists all TV shows without a linked genre, sorted by title and genre ID |
 | `13-count_shows_by_genre.sql` | Counts the number of TV shows linked to each genre, sorted by descending count |
 | `14-my_genres.sql` | Lists all genres linked to the TV show Dexter, sorted alphabetically |
+| `15-comedy_only.sql` | Lists all Comedy TV shows, sorted alphabetically by title |
