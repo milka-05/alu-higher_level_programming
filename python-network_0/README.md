@@ -19,3 +19,16 @@ A Bash script that accepts a URL as an argument, sends a request using curl, and
 
 **Expected output:**
 10
+
+## Task 1: Body
+
+**File:** `1-body.sh`
+
+**Description:**
+A Bash script that sends a GET request using curl and displays the response body only when the HTTP status code is 200.
+
+**Usage:**
+./1-body.sh 0.0.0.0:5000/route_1
+
+**Expected output:**
+Route 2
