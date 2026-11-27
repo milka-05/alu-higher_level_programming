@@ -162,3 +162,23 @@ Index
 
 **Expected output for an HTTP error:**
 Error code: 401
+
+## Task 8: Search API
+
+**File:** `8-json_api.py`
+
+**Description:**
+A Python script that takes in a letter and sends a POST request to `http://0.0.0.0:5000/search_user` with the letter in the variable `q`. If no argument is given, `q` is an empty string.
+
+**Requirements:**
+- Use `requests` and `sys`.
+- Do not import other packages.
+- If the JSON is valid and not empty, display `[<id>] <name>`.
+- Display `Not a valid JSON` if the JSON is invalid.
+- Display `No result` if the JSON is empty.
+
+**Usage:**
+./8-json_api.py a
+
+**Expected output:**
+[8446] amnirqhtfjq
