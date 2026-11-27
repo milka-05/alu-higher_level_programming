@@ -11,3 +11,4 @@ Introduction to MySQL queries and scripts.
 | `4-first_table.sql` | Creates a table called `first_table` in the current database if it does not exist |
 | `5-full_table.sql` | Prints the full description of `first_table` from the database passed as an argument |
 | `6-list_values.sql` | Lists all rows and fields of `first_table` from the database passed as an argument |
+| `7-insert_value.sql` | Inserts a new row (`id = 89`, `name = Best School`) into `first_table` |
