@@ -89,7 +89,7 @@ Error code: 401
 **File:** `4-hbtn_status.py`
 
 **Description:**
-A Python script that fetches `https://alu-intranet.hbtn.io/status` using the `requests` package and displays the response body.
+A Python script that fetches `https://intranet.hbtn.io/status` using the `requests` package and displays the response body.
 
 **Requirements:**
 - Use the `requests` package.
