@@ -13,3 +13,4 @@ Reading and writing files in Python.
 | `6-load_from_json_file.py` | Function `load_from_json_file(filename)` that reads a JSON file and returns the corresponding Python object |
 | `7-add_item.py` | Script that adds command-line arguments to a list and saves the list in `add_item.json` using JSON functions |
 | `9-student.py` | Defines a Student class with public attributes and a method that returns its dictionary representation |
+| `10-student.py` | Defines a Student class with a to_json method that returns all attributes or filters them using a list of strings |
