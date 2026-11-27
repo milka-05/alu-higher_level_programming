@@ -12,3 +12,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `5-unique_id.sql` | Creates the table `unique_id` with a unique `id` column defaulting to `1` |
 | `6-states.sql` | Creates database `hbtn_0d_usa` and table `states` with auto-increment primary key `id` |
 | `7-cities.sql` | Creates database `hbtn_0d_usa` and table `cities` with a foreign key referencing `states(id)` |
+| `8-cities_of_california_subquery.sql` | Lists all cities of California from `hbtn_0d_usa` sorted by `cities.id` ascending using a subquery |
