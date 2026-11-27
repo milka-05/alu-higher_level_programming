@@ -14,3 +14,4 @@ Inheritance and introspection in Python.
 | `6-base_geometry.py` | Class `BaseGeometry` with an `area()` method that raises an Exception |
 | `7-base_geometry.py` | Class `BaseGeometry` with `area()` and `integer_validator(name, value)` |
 | `tests/7-base_geometry.txt` | Doctest file for `7-base_geometry.py` |
+| `8-rectangle.py` | Class `Rectangle` that inherits from `BaseGeometry` with private, validated `width` and `height` |
