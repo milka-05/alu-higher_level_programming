@@ -57,3 +57,22 @@ python3 -m doctest -v ./tests/3-say_my_name.txt
 
 **Expected output:**
 Every test passes, with 0 failed.
+
+## Task 4: Print square
+
+**Files:** `4-print_square.py`, `tests/4-print_square.txt`
+
+**Description:**
+A function `print_square(size)` that prints a square of `size` x `size` with the character `#`.
+
+**Requirements:**
+- `size` must be an integer, otherwise raise `TypeError`.
+- If `size` is less than 0, raise `ValueError`.
+- If `size` is a float and is less than 0, raise `TypeError`.
+- Do not import any module.
+
+**Usage:**
+python3 -m doctest -v ./tests/4-print_square.txt
+
+**Expected output:**
+Every test passes, with 0 failed.
