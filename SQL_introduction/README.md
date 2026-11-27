@@ -20,3 +20,4 @@ Introduction to MySQL queries and scripts.
 | `13-change_class.sql` | Removes all records with `score <= 5` from `second_table` |
 | `14-average.sql` | Computes the score average of all records in `second_table` |
 | `15-groups.sql` | Lists the number of records with the same `score` in `second_table` sorted by count descending |
+| `16-no_link.sql` | Lists `score` and `name` from `second_table` for rows with a name, ordered by score descending |
