@@ -16,3 +16,4 @@ MySQL privileges, permissions, joins, and constraints.
 | `9-cities_by_state_join.sql` | Lists all cities with their state names from `hbtn_0d_usa` sorted by `cities.id` ascending |
 | `10-genre_id_by_show.sql` | Lists TV shows with their linked genre IDs, sorted by show title and genre ID |
 | `11-genre_id_all_shows.sql` | Lists all TV shows and their genre IDs, including shows without genres using a LEFT JOIN |
+| `12-no_genre.sql` | Lists all TV shows without a linked genre, sorted by title and genre ID |
