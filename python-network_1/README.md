@@ -123,3 +123,21 @@ A Python script that sends a request to a URL using the `requests` package and d
 **Expected output:**
 A unique request ID, for example:
 5e52e160-c822-4669-8b3a-8b3bbca7b090
+
+## Task 6: POST an email with requests
+
+**File:** `6-post_email.py`
+
+**Description:**
+A Python script that sends a POST request to a URL with an email address in the `email` variable and displays the response body.
+
+**Requirements:**
+- Use `requests` and `sys`.
+- Do not import other packages.
+- Send the email in the variable `email`.
+
+**Usage:**
+./6-post_email.py http://0.0.0.0:5000/post_email hr@holbertonschool.com
+
+**Expected output:**
+Your email is: hr@holbertonschool.com
